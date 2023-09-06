@@ -22,5 +22,5 @@ To create a chronometer application using the MVC (Model-View-Controller) patter
 
 Now, let's create the necessary files and implement the code for each component.
 
-1. chronometer.py (Model)
+Finally, we can run run.sh to install all dependencies.
 
